@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/udacityImage"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/udacity" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/streetaddress"
+        android:layout_centerHorizontal="true"
+        android:text="Udacity"
+        android:textColor="#02b3e4"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/streetaddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/city_state_zip"
+        android:layout_centerHorizontal="true"
+        android:text="2465 Latham St"
+        android:textColor="#02b3e4"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/city_state_zip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/phone"
+        android:layout_centerHorizontal="true"
+        android:text="Mountain View, CA 94043"
+        android:textColor="#02b3e4"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="8dp"
+        android:text="650-555-5555"
+        android:textColor="#02b3e4"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/url"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/udacityImage"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="24dp"
+        android:paddingTop="8dp"
+        android:text="www.udacity.com"
+        android:textColor="#02b3e4"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_above="@id/name"
+        android:layout_below="@id/url"
+        android:scaleType="center"
+        android:src="@drawable/udacity_vector" />
+
+</RelativeLayout>
+
