@@ -1,0 +1,24 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Clean Project" count="5" />
+      <entry path="Build -&gt; Rebuild Project" count="10" />
+      <entry path="Code -&gt; Auto-Indent Lines" count="4" />
+      <entry path="Edit -&gt; Indent Selection" count="1" />
+      <entry path="File -&gt; New -&gt; New Project..." count="7" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="3" />
+      <entry path="File -&gt; Open..." count="6" />
+      <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="4" />
+      <entry path="File -&gt; Settings..." count="1" />
+      <entry path="Run -&gt; Edit Configurations..." count="3" />
+      <entry path="VCS -&gt; Commit" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Add" count="2" />
+      <entry path="VCS -&gt; Git -&gt; Commit File" count="6" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="2" />
+      <entry path="VCS -&gt; Git -&gt; Remotes..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="4" />
+      <entry path="VCS -&gt; Refresh File Status" count="1" />
+      <entry path="View -&gt; Quick Switch Scheme..." count="6" />
+    </counts>
+  </component>
+</application>

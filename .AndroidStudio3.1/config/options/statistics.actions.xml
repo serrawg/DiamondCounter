@@ -1,0 +1,59 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$SelectAll" count="2" />
+      <entry action="$Undo" count="227" />
+      <entry action="Android.OpenStringResourceEditor" count="1" />
+      <entry action="Android.SyncProject" count="1" />
+      <entry action="AutoIndentLines" count="4" />
+      <entry action="CheckinFiles" count="6" />
+      <entry action="CheckinProject" count="1" />
+      <entry action="CleanGradleProject" count="5" />
+      <entry action="CodeCompletion" count="1" />
+      <entry action="CommentByLineComment" count="3" />
+      <entry action="ConfigureCodeStyleOnSelectedFragment" count="1" />
+      <entry action="Debug" count="13" />
+      <entry action="EditorBackSpace" count="3980" />
+      <entry action="EditorChooseLookupItem" count="349" />
+      <entry action="EditorChooseLookupItemReplace" count="47" />
+      <entry action="EditorCopy" count="53" />
+      <entry action="EditorCut" count="27" />
+      <entry action="EditorDelete" count="734" />
+      <entry action="EditorDeleteLine" count="1" />
+      <entry action="EditorDown" count="6105" />
+      <entry action="EditorDownWithSelection" count="1019" />
+      <entry action="EditorEnter" count="505" />
+      <entry action="EditorEscape" count="2" />
+      <entry action="EditorIndentSelection" count="4" />
+      <entry action="EditorLeft" count="2610" />
+      <entry action="EditorLeftWithSelection" count="410" />
+      <entry action="EditorPaste" count="139" />
+      <entry action="EditorRight" count="2635" />
+      <entry action="EditorRightWithSelection" count="639" />
+      <entry action="EditorSplitLine" count="2" />
+      <entry action="EditorStartNewLine" count="1" />
+      <entry action="EditorTab" count="49" />
+      <entry action="EditorUp" count="5004" />
+      <entry action="EditorUpWithSelection" count="329" />
+      <entry action="Find" count="1" />
+      <entry action="Git.Add" count="2" />
+      <entry action="Git.Configure.Remotes" count="1" />
+      <entry action="Git.Init" count="4" />
+      <entry action="GotoDeclaration" count="11" />
+      <entry action="NewProject" count="7" />
+      <entry action="OpenFile" count="6" />
+      <entry action="QuickChangeScheme" count="6" />
+      <entry action="RebuildGradleProject" count="10" />
+      <entry action="Resume" count="6" />
+      <entry action="Run" count="142" />
+      <entry action="ShowSettings" count="1" />
+      <entry action="StepOver" count="16" />
+      <entry action="Switcher" count="1" />
+      <entry action="TemplateProjectProperties" count="4" />
+      <entry action="ToggleLineBreakpoint" count="10" />
+      <entry action="Vcs.Push" count="2" />
+      <entry action="Vcs.RefreshStatuses" count="1" />
+      <entry action="editRunConfigurations" count="3" />
+    </counts>
+  </component>
+</application>
