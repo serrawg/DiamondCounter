@@ -1,28 +1,39 @@
 <application>
   <component name="MainMenuCollector">
     <counts>
+      <entry path="Analyze -&gt; Code Cleanup..." count="1" />
+      <entry path="Analyze -&gt; Inspect Code..." count="4" />
       <entry path="Build -&gt; Clean Project" count="5" />
       <entry path="Build -&gt; Rebuild Project" count="10" />
-      <entry path="Code -&gt; Auto-Indent Lines" count="4" />
+      <entry path="Code -&gt; Auto-Indent Lines" count="5" />
+      <entry path="Code -&gt; Rearrange Code" count="2" />
+      <entry path="Code -&gt; Reformat Code" count="2" />
       <entry path="Edit -&gt; Indent Selection" count="1" />
       <entry path="File -&gt; New -&gt; New Project..." count="7" />
-      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="3" />
-      <entry path="File -&gt; Open..." count="6" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="5" />
+      <entry path="File -&gt; Open..." count="18" />
       <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="4" />
+      <entry path="File -&gt; Profile or Debug APK..." count="1" />
       <entry path="File -&gt; Save All" count="1" />
-      <entry path="File -&gt; Settings..." count="1" />
+      <entry path="File -&gt; Settings..." count="2" />
       <entry path="Run -&gt; Edit Configurations..." count="3" />
-      <entry path="VCS -&gt; Browse VCS Repository -&gt; Show Git Repository Log..." count="1" />
-      <entry path="VCS -&gt; Commit" count="2" />
+      <entry path="VCS -&gt; Browse VCS Repository -&gt; Show Git Repository Log..." count="2" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; GitHub" count="1" />
+      <entry path="VCS -&gt; Commit" count="3" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="3" />
       <entry path="VCS -&gt; Git -&gt; Add" count="3" />
+      <entry path="VCS -&gt; Git -&gt; Branches..." count="1" />
       <entry path="VCS -&gt; Git -&gt; Commit File" count="10" />
       <entry path="VCS -&gt; Git -&gt; Push..." count="2" />
       <entry path="VCS -&gt; Git -&gt; Remotes..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Revert" count="1" />
       <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="5" />
-      <entry path="VCS -&gt; Refresh File Status" count="2" />
-      <entry path="VCS -&gt; Update Project" count="2" />
-      <entry path="VCS -&gt; VCS Operations Popup..." count="1" />
-      <entry path="View -&gt; Quick Switch Scheme..." count="6" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="14" />
+      <entry path="VCS -&gt; Local History -&gt; Show History" count="1" />
+      <entry path="VCS -&gt; Refresh File Status" count="4" />
+      <entry path="VCS -&gt; Update Project" count="3" />
+      <entry path="VCS -&gt; VCS Operations Popup..." count="2" />
+      <entry path="View -&gt; Quick Switch Scheme..." count="10" />
     </counts>
   </component>
 </application>
